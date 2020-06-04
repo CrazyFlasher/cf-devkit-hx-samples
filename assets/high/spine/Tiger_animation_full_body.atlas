@@ -1,0 +1,167 @@
+
+Tiger_animation_full_body.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: true
+  xy: 1368, 420
+  size: 600, 627
+  orig: 600, 627
+  offset: 0, 0
+  index: -1
+arm_LL - Copy
+  rotate: true
+  xy: 2483, 792
+  size: 228, 554
+  orig: 228, 554
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: false
+  xy: 969, 164
+  size: 357, 259
+  orig: 357, 259
+  offset: 0, 0
+  index: -1
+blink_L
+  rotate: false
+  xy: 2483, 722
+  size: 69, 68
+  orig: 76, 72
+  offset: 5, 1
+  index: -1
+blink_R
+  rotate: false
+  xy: 2200, 467
+  size: 44, 51
+  orig: 48, 53
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 0, 425
+  size: 595, 1366
+  orig: 595, 1366
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 2361, 578
+  size: 39, 40
+  orig: 50, 50
+  offset: 5, 4
+  index: -1
+eye_R
+  rotate: false
+  xy: 3648, 965
+  size: 55, 55
+  orig: 73, 68
+  offset: 9, 4
+  index: -1
+eyebrow_L
+  rotate: false
+  xy: 969, 23
+  size: 186, 139
+  orig: 186, 139
+  offset: 0, 0
+  index: -1
+eyebrow_R
+  rotate: false
+  xy: 2361, 620
+  size: 75, 95
+  orig: 75, 95
+  offset: 0, 0
+  index: -1
+foot_R
+  rotate: true
+  xy: 3039, 817
+  size: 203, 250
+  orig: 203, 250
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1997, 717
+  size: 484, 303
+  orig: 484, 303
+  offset: 0, 0
+  index: -1
+iris_L
+  rotate: false
+  xy: 2554, 757
+  size: 30, 33
+  orig: 33, 35
+  offset: 1, 1
+  index: -1
+iris_R
+  rotate: false
+  xy: 1157, 90
+  size: 24, 26
+  orig: 26, 28
+  offset: 1, 1
+  index: -1
+jaw
+  rotate: true
+  xy: 3291, 827
+  size: 193, 213
+  orig: 193, 213
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 1997, 520
+  size: 195, 362
+  orig: 195, 362
+  offset: 0, 0
+  index: -1
+lid_lower_L
+  rotate: true
+  xy: 1328, 366
+  size: 57, 34
+  orig: 59, 36
+  offset: 1, 1
+  index: -1
+lid_lower_R
+  rotate: false
+  xy: 3039, 793
+  size: 34, 22
+  orig: 36, 24
+  offset: 1, 1
+  index: -1
+lid_upper_L
+  rotate: false
+  xy: 1157, 118
+  size: 68, 44
+  orig: 74, 49
+  offset: 4, 2
+  index: -1
+lid_upper_R
+  rotate: true
+  xy: 2438, 671
+  size: 44, 34
+  orig: 48, 38
+  offset: 2, 3
+  index: -1
+start
+  rotate: false
+  xy: 3506, 847
+  size: 140, 173
+  orig: 150, 186
+  offset: 9, 12
+  index: -1
+tail
+  rotate: true
+  xy: 0, 0
+  size: 423, 967
+  orig: 423, 967
+  offset: 0, 0
+  index: -1
+tooth
+  rotate: false
+  xy: 1997, 432
+  size: 201, 86
+  orig: 201, 86
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1 @@
+-cmd haxelib run hxp .haxelib/cf-devkit-hx/git/scripts/hx/CompressPNGs.hx -Din=../export -Dq=0-80

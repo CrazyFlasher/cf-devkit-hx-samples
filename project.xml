@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+
+    <define name="useStarling"/>
+<!--    <define name="require3D"/>-->
+    <define name="standAlone"/>
+<!--    <define name="showFPSAlways"/>-->
+<!--    <define name="ignoreQuality"/>-->
+<!--    <define name="forcedQuality" value="high"/>-->
+    <define name="windowWidth" value="1280"/>
+    <define name="windowHeight" value="720"/>
+
+    <define name="title" value="Samples"/>
+    <define name="basePath" value="assets"/>
+
+    <app path="export/starling"/>
+
+    <source path="src" />
+
+    <haxelib name="cf-devkit-hx"/>
+
+<!--    Config-->
+    <assets path="${basePath}/config.json" preload="false" embed="false"/>
+
+<!--    TrueType fonts-->
+    <assets path="${basePath}/fonts" preload="false" embed="false"/>
+
+<!--    Miscellaneous-->
+    <assets path="${basePath}/misc" preload="false" embed="false"/>
+
+<!--    Starling-->
+    <assets path="${basePath}/high" preload="false" embed="false" exclude="*.swf|*.fla|*.flump"/>
+    <assets path="${basePath}/medium" preload="false" embed="false" exclude="*.swf|*.fla|*.flump"/>
+    <assets path="${basePath}/low" preload="false" embed="false" exclude="*.swf|*.fla|*.flump"/>
+
+    <assets path="${basePath}/bundle_1/high/bundle_1.zip" rename="${basePath}/high/bundle_1.zip" preload="false" embed="false"/>
+    <assets path="${basePath}/bundle_1/medium/bundle_1.zip" rename="${basePath}/medium/bundle_1.zip" preload="false" embed="false"/>
+    <assets path="${basePath}/bundle_1/low/bundle_1.zip" rename="${basePath}/low/bundle_1.zip" preload="false" embed="false"/>
+
+    <assets path="${basePath}/bundle_2/high/bundle_2.zip" rename="${basePath}/high/bundle_2.zip" preload="false" embed="false"/>
+    <assets path="${basePath}/bundle_2/medium/bundle_2.zip" rename="${basePath}/medium/bundle_2.zip" preload="false" embed="false"/>
+    <assets path="${basePath}/bundle_2/low/bundle_2.zip" rename="${basePath}/low/bundle_2.zip" preload="false" embed="false"/>
+
+    <assets path="sounds" preload="false" embed="false"/>
+    <assets path="${basePath}/particles" preload="false" embed="false"/>
+
+</project>

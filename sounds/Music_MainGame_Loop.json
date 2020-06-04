@@ -1,0 +1,11 @@
+{
+  "urls": [
+    "Music_MainGame_Loop.mp3"
+  ],
+  "sprite": {
+    "loop-Music_MainGame_Loop": [
+      20,
+      102900
+    ]
+  }
+}

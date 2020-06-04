@@ -1,0 +1,4 @@
+-cmd git lfs install
+scripts/resolve-libs.hxml
+scripts/build.hxml
+scripts/compress.hxml

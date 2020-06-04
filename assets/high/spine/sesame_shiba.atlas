@@ -1,0 +1,209 @@
+
+sesame_shiba.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light_01
+  rotate: false
+  xy: 0, 1539
+  size: 479, 498
+  orig: 479, 498
+  offset: 0, 0
+  index: -1
+around_frame_00001
+  rotate: false
+  xy: 304, 1179
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+around_frame_00002
+  rotate: false
+  xy: 304, 927
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+around_frame_00003
+  rotate: false
+  xy: 556, 1179
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+around_frame_00004
+  rotate: false
+  xy: 304, 675
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+around_frame_00005
+  rotate: false
+  xy: 556, 927
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+around_frame_00006
+  rotate: false
+  xy: 808, 1179
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+around_frame_00007
+  rotate: false
+  xy: 304, 423
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+around_frame_00008
+  rotate: false
+  xy: 556, 675
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+around_frame_00009
+  rotate: false
+  xy: 808, 927
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+back paw 02
+  rotate: false
+  xy: 0, 1235
+  size: 302, 302
+  orig: 302, 302
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 481, 1735
+  size: 302, 302
+  orig: 302, 302
+  offset: 0, 0
+  index: -1
+bow 01
+  rotate: false
+  xy: 0, 931
+  size: 302, 302
+  orig: 302, 302
+  offset: 0, 0
+  index: -1
+bow 02
+  rotate: false
+  xy: 785, 1735
+  size: 302, 302
+  orig: 302, 302
+  offset: 0, 0
+  index: -1
+circle
+  rotate: false
+  xy: 0, 627
+  size: 302, 302
+  orig: 302, 302
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 304, 1484
+  size: 86, 53
+  orig: 86, 53
+  offset: 0, 0
+  index: -1
+front paw 01
+  rotate: false
+  xy: 1089, 1735
+  size: 302, 302
+  orig: 302, 302
+  offset: 0, 0
+  index: -1
+front paw 02
+  rotate: false
+  xy: 0, 323
+  size: 302, 302
+  orig: 302, 302
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1393, 1735
+  size: 302, 302
+  orig: 302, 302
+  offset: 0, 0
+  index: -1
+left ear
+  rotate: false
+  xy: 0, 19
+  size: 302, 302
+  orig: 302, 302
+  offset: 0, 0
+  index: -1
+lines2
+  rotate: false
+  xy: 0, 0
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+lines3
+  rotate: false
+  xy: 1060, 1395
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 2001, 1979
+  size: 58, 33
+  orig: 58, 33
+  offset: 0, 0
+  index: -1
+right ear
+  rotate: false
+  xy: 1697, 1735
+  size: 302, 302
+  orig: 302, 302
+  offset: 0, 0
+  index: -1
+scarf
+  rotate: false
+  xy: 481, 1431
+  size: 302, 302
+  orig: 302, 302
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 785, 1431
+  size: 302, 302
+  orig: 302, 302
+  offset: 0, 0
+  index: -1
+tip
+  rotate: false
+  xy: 1089, 1431
+  size: 302, 302
+  orig: 302, 302
+  offset: 0, 0
+  index: -1
+umbrella2
+  rotate: false
+  xy: 1697, 1433
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+whiskers
+  rotate: false
+  xy: 1393, 1431
+  size: 302, 302
+  orig: 302, 302
+  offset: 0, 0
+  index: -1

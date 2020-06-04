@@ -1,0 +1,223 @@
+
+Dragon_animation_full_body.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: false
+  xy: 1834, 844
+  size: 88, 174
+  orig: 88, 175
+  offset: 0, 1
+  index: -1
+arm_R
+  rotate: false
+  xy: 1623, 840
+  size: 209, 178
+  orig: 210, 178
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 573
+  size: 445, 1195
+  orig: 445, 1196
+  offset: 0, 1
+  index: -1
+eyebrow_L
+  rotate: false
+  xy: 2015, 965
+  size: 32, 53
+  orig: 32, 54
+  offset: 0, 1
+  index: -1
+eyebrow_R
+  rotate: true
+  xy: 1685, 704
+  size: 74, 54
+  orig: 75, 55
+  offset: 0, 1
+  index: -1
+hair
+  rotate: false
+  xy: 314, 255
+  size: 285, 128
+  orig: 286, 128
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1197, 650
+  size: 217, 368
+  orig: 218, 369
+  offset: 0, 1
+  index: -1
+horn_L
+  rotate: true
+  xy: 118, 8
+  size: 59, 120
+  orig: 59, 121
+  offset: 0, 1
+  index: -1
+horn_R
+  rotate: false
+  xy: 850, 413
+  size: 133, 158
+  orig: 133, 159
+  offset: 0, 1
+  index: -1
+iris
+  rotate: false
+  xy: 475, 87
+  size: 13, 13
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+jaw_front
+  rotate: true
+  xy: 1416, 651
+  size: 127, 196
+  orig: 128, 197
+  offset: 0, 1
+  index: -1
+jaw_inside
+  rotate: true
+  xy: 1745, 778
+  size: 60, 92
+  orig: 60, 93
+  offset: 0, 1
+  index: -1
+leg_L
+  rotate: false
+  xy: 613, 410
+  size: 235, 161
+  orig: 235, 161
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 1416, 780
+  size: 205, 238
+  orig: 206, 238
+  offset: 0, 0
+  index: -1
+lid_blink
+  rotate: false
+  xy: 985, 414
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+lid_lower
+  rotate: false
+  xy: 576, 231
+  size: 22, 22
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+mane
+  rotate: false
+  xy: 314, 83
+  size: 159, 170
+  orig: 159, 170
+  offset: 0, 0
+  index: -1
+smoke_1
+  rotate: true
+  xy: 613, 390
+  size: 18, 39
+  orig: 20, 41
+  offset: 1, 1
+  index: -1
+smoke_2
+  rotate: true
+  xy: 1924, 856
+  size: 31, 82
+  orig: 31, 84
+  offset: 0, 1
+  index: -1
+smoke_3
+  rotate: true
+  xy: 1309, 599
+  size: 49, 104
+  orig: 51, 105
+  offset: 1, 1
+  index: -1
+smoke_4
+  rotate: true
+  xy: 1623, 780
+  size: 58, 120
+  orig: 58, 120
+  offset: 0, 0
+  index: -1
+smoke_5
+  rotate: true
+  xy: 0, 0
+  size: 67, 116
+  orig: 69, 116
+  offset: 1, 0
+  index: -1
+smoke_6
+  rotate: true
+  xy: 1197, 565
+  size: 83, 110
+  orig: 85, 112
+  offset: 1, 1
+  index: -1
+smoke_7
+  rotate: false
+  xy: 1924, 889
+  size: 89, 129
+  orig: 91, 131
+  offset: 1, 1
+  index: -1
+smoke_8
+  rotate: false
+  xy: 985, 441
+  size: 103, 130
+  orig: 105, 130
+  offset: 1, 0
+  index: -1
+smoke_9
+  rotate: true
+  xy: 1090, 462
+  size: 109, 89
+  orig: 109, 91
+  offset: 0, 1
+  index: -1
+start
+  rotate: false
+  xy: 1614, 691
+  size: 69, 87
+  orig: 75, 93
+  offset: 5, 6
+  index: -1
+tail
+  rotate: false
+  xy: 0, 69
+  size: 312, 502
+  orig: 312, 502
+  offset: 0, 0
+  index: -1
+tongue
+  rotate: true
+  xy: 1839, 783
+  size: 59, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: -1
+whisker_L
+  rotate: false
+  xy: 475, 102
+  size: 99, 151
+  orig: 100, 151
+  offset: 0, 0
+  index: -1
+whisker_R
+  rotate: false
+  xy: 314, 385
+  size: 297, 186
+  orig: 298, 187
+  offset: 0, 1
+  index: -1

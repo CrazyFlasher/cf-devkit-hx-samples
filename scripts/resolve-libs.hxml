@@ -1,0 +1,3 @@
+-cmd haxelib newrepo
+-cmd haxelib --always git cf-devkit-hx https://github.com/CrazyFlasher/cf-devkit-hx.git master
+-cmd haxelib run hxp .haxelib/cf-devkit-hx/git/scripts/hx/utils/SetupIML.hx

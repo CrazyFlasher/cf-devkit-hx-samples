@@ -1,0 +1,13 @@
+-cmd haxelib run hxp .haxelib/cf-devkit-hx/git/scripts/hx/ExportFlashSWF.hx -Ddir=assets/bundle_1
+-cmd haxelib run hxp .haxelib/cf-devkit-hx/git/scripts/hx/ExportFlashSWF.hx -Ddir=assets/bundle_2
+
+-cmd haxelib run hxp .haxelib/cf-devkit-hx/git/scripts/hx/ExportFlumpSWF.hx -Ddir=assets/bundle_1 -DjpgQuality=80
+-cmd haxelib run hxp .haxelib/cf-devkit-hx/git/scripts/hx/ExportFlumpSWF.hx -Ddir=assets/bundle_2 -DjpgQuality=80
+
+-cmd haxelib run hxp .haxelib/cf-devkit-hx/git/scripts/hx/CompressPNGs.hx -Dfile=assets/bundle_1/high/bundle_1.zip -Dq=0-80
+-cmd haxelib run hxp .haxelib/cf-devkit-hx/git/scripts/hx/CompressPNGs.hx -Dfile=assets/bundle_1/medium/bundle_1.zip -Dq=0-80
+-cmd haxelib run hxp .haxelib/cf-devkit-hx/git/scripts/hx/CompressPNGs.hx -Dfile=assets/bundle_1/low/bundle_1.zip -Dq=0-80
+
+-cmd haxelib run hxp .haxelib/cf-devkit-hx/git/scripts/hx/CompressPNGs.hx -Dfile=assets/bundle_2/high/bundle_2.zip -Dq=0-80
+-cmd haxelib run hxp .haxelib/cf-devkit-hx/git/scripts/hx/CompressPNGs.hx -Dfile=assets/bundle_2/medium/bundle_2.zip -Dq=0-80
+-cmd haxelib run hxp .haxelib/cf-devkit-hx/git/scripts/hx/CompressPNGs.hx -Dfile=assets/bundle_2/low/bundle_2.zip -Dq=0-80

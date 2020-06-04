@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath='assets/high/spriteSheet/symbol5.jpg'>
+<SubTexture name='symbol5_005.png' x='645' y='1' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol5_014.png' x='1289' y='1' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol5_013.png' x='967' y='809' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol5_009.png' x='967' y='1' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol5_020.png' x='645' y='3233' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol5_024.png' x='967' y='3233' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol5_008.png' x='645' y='809' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol5_027.png' x='1289' y='3233' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol5_022.png' x='1289' y='1617' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol5_003.png' x='1' y='1617' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol5_010.png' x='1' y='3233' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol5_026.png' x='1611' y='1617' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol5_023.png' x='1611' y='809' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol5_011.png' x='323' y='2425' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol5_015.png' x='323' y='3233' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol5_018.png' x='1289' y='809' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol5_017.png' x='967' y='1617' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol5_029.png' x='1611' y='3233' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol5_002.png' x='323' y='1' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol5_028.png' x='1611' y='2425' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol5_001.png' x='1' y='809' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol5_019.png' x='1611' y='1' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol5_016.png' x='645' y='2425' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol5_000.png' x='1' y='1' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol5_004.png' x='323' y='809' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol5_007.png' x='323' y='1617' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol5_021.png' x='967' y='2425' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol5_006.png' x='1' y='2425' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol5_012.png' x='645' y='1617' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol5_025.png' x='1289' y='2425' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+</TextureAtlas>

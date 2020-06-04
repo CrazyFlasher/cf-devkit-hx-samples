@@ -1,0 +1,209 @@
+
+sesame_shiba.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light_01
+  rotate: false
+  xy: 0, 3
+  size: 120, 125
+  orig: 120, 125
+  offset: 0, 0
+  index: -1
+around_frame_00001
+  rotate: false
+  xy: 1291, 65
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+around_frame_00002
+  rotate: false
+  xy: 1291, 0
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+around_frame_00003
+  rotate: false
+  xy: 1356, 65
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+around_frame_00004
+  rotate: false
+  xy: 1356, 0
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+around_frame_00005
+  rotate: false
+  xy: 1421, 65
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+around_frame_00006
+  rotate: false
+  xy: 1421, 0
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+around_frame_00007
+  rotate: false
+  xy: 1486, 65
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+around_frame_00008
+  rotate: false
+  xy: 1486, 0
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+around_frame_00009
+  rotate: false
+  xy: 1551, 65
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+back paw 02
+  rotate: false
+  xy: 122, 52
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 200, 52
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+bow 01
+  rotate: false
+  xy: 278, 52
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+bow 02
+  rotate: false
+  xy: 356, 52
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+circle
+  rotate: false
+  xy: 434, 52
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 122, 37
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+front paw 01
+  rotate: false
+  xy: 512, 52
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+front paw 02
+  rotate: false
+  xy: 590, 52
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 668, 52
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+left ear
+  rotate: false
+  xy: 746, 52
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+lines2
+  rotate: false
+  xy: 122, 31
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+lines3
+  rotate: false
+  xy: 1616, 119
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 1551, 55
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+right ear
+  rotate: false
+  xy: 824, 52
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+scarf
+  rotate: false
+  xy: 902, 52
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 980, 52
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+tip
+  rotate: false
+  xy: 1058, 52
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+umbrella2
+  rotate: false
+  xy: 1214, 53
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+whiskers
+  rotate: false
+  xy: 1136, 52
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1

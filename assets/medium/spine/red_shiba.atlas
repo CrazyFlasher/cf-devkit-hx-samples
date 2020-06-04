@@ -1,0 +1,202 @@
+
+red_shiba.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light_01
+  rotate: false
+  xy: 0, 765
+  size: 240, 249
+  orig: 240, 249
+  offset: 0, 0
+  index: -1
+around_frame_00001
+  rotate: false
+  xy: 700, 736
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+around_frame_00002
+  rotate: false
+  xy: 827, 736
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+around_frame_00003
+  rotate: false
+  xy: 153, 583
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+around_frame_00004
+  rotate: false
+  xy: 153, 456
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+around_frame_00005
+  rotate: false
+  xy: 280, 583
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+around_frame_00006
+  rotate: false
+  xy: 153, 329
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+around_frame_00007
+  rotate: false
+  xy: 280, 456
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+around_frame_00008
+  rotate: false
+  xy: 407, 583
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+around_frame_00009
+  rotate: false
+  xy: 153, 202
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 0, 612
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+back leg
+  rotate: false
+  xy: 242, 863
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+back paw
+  rotate: false
+  xy: 0, 459
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+circle copy 7
+  rotate: false
+  xy: 395, 863
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+ear_left
+  rotate: false
+  xy: 153, 737
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+ear_right]
+  rotate: false
+  xy: 280, 427
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+flower
+  rotate: false
+  xy: 0, 306
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+flower2
+  rotate: false
+  xy: 407, 559
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+forehead
+  rotate: true
+  xy: 954, 804
+  size: 57, 31
+  orig: 57, 31
+  offset: 0, 0
+  index: -1
+front paw
+  rotate: false
+  xy: 548, 863
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 0, 153
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 701, 863
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 700, 711
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+paw
+  rotate: false
+  xy: 0, 0
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 854, 863
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+tail tip
+  rotate: false
+  xy: 242, 710
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+umbrella2
+  rotate: false
+  xy: 548, 711
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+whiskers
+  rotate: false
+  xy: 395, 710
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1

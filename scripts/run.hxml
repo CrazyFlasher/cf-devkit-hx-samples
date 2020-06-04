@@ -1,0 +1,1 @@
+-cmd haxelib run openfl run project.xml html5 -DuseStarling

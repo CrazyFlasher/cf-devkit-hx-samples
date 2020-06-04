@@ -1,0 +1,2 @@
+-cmd haxelib run hxp .haxelib/cf-devkit-hx/git/scripts/hx/CleanOutput.hx
+-cmd haxelib run openfl build project.xml html5 -final -dce full --no-traces -minify

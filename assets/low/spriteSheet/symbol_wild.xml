@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath='assets/low/spriteSheet/symbol_wild.jpg'>
+<SubTexture name='symbol_wild_020.png' x='165' y='415' width='80' height='67' frameX='0' frameY='0' frameWidth='80' frameHeight='67' rotated='false'/>
+<SubTexture name='symbol_wild_028.png' x='83' y='622' width='80' height='67' frameX='0' frameY='0' frameWidth='80' frameHeight='67' rotated='false'/>
+<SubTexture name='symbol_wild_003.png' x='1' y='70' width='80' height='67' frameX='0' frameY='0' frameWidth='80' frameHeight='67' rotated='false'/>
+<SubTexture name='symbol_wild_008.png' x='165' y='139' width='80' height='67' frameX='0' frameY='0' frameWidth='80' frameHeight='67' rotated='false'/>
+<SubTexture name='symbol_wild_016.png' x='83' y='346' width='80' height='67' frameX='0' frameY='0' frameWidth='80' frameHeight='67' rotated='false'/>
+<SubTexture name='symbol_wild_022.png' x='83' y='484' width='80' height='67' frameX='0' frameY='0' frameWidth='80' frameHeight='67' rotated='false'/>
+<SubTexture name='symbol_wild_023.png' x='165' y='484' width='80' height='67' frameX='0' frameY='0' frameWidth='80' frameHeight='67' rotated='false'/>
+<SubTexture name='symbol_wild_007.png' x='83' y='139' width='80' height='67' frameX='0' frameY='0' frameWidth='80' frameHeight='67' rotated='false'/>
+<SubTexture name='symbol_wild_021.png' x='1' y='484' width='80' height='67' frameX='0' frameY='0' frameWidth='80' frameHeight='67' rotated='false'/>
+<SubTexture name='symbol_wild_010.png' x='83' y='208' width='80' height='67' frameX='0' frameY='0' frameWidth='80' frameHeight='67' rotated='false'/>
+<SubTexture name='symbol_wild_015.png' x='1' y='346' width='80' height='67' frameX='0' frameY='0' frameWidth='80' frameHeight='67' rotated='false'/>
+<SubTexture name='symbol_wild_013.png' x='83' y='277' width='80' height='67' frameX='0' frameY='0' frameWidth='80' frameHeight='67' rotated='false'/>
+<SubTexture name='symbol_wild_002.png' x='165' y='1' width='80' height='67' frameX='0' frameY='0' frameWidth='80' frameHeight='67' rotated='false'/>
+<SubTexture name='symbol_wild_009.png' x='1' y='208' width='80' height='67' frameX='0' frameY='0' frameWidth='80' frameHeight='67' rotated='false'/>
+<SubTexture name='symbol_wild_012.png' x='1' y='277' width='80' height='67' frameX='0' frameY='0' frameWidth='80' frameHeight='67' rotated='false'/>
+<SubTexture name='symbol_wild_027.png' x='1' y='622' width='80' height='67' frameX='0' frameY='0' frameWidth='80' frameHeight='67' rotated='false'/>
+<SubTexture name='symbol_wild_024.png' x='1' y='553' width='80' height='67' frameX='0' frameY='0' frameWidth='80' frameHeight='67' rotated='false'/>
+<SubTexture name='symbol_wild_001.png' x='83' y='1' width='80' height='67' frameX='0' frameY='0' frameWidth='80' frameHeight='67' rotated='false'/>
+<SubTexture name='symbol_wild_018.png' x='1' y='415' width='80' height='67' frameX='0' frameY='0' frameWidth='80' frameHeight='67' rotated='false'/>
+<SubTexture name='symbol_wild_011.png' x='165' y='208' width='80' height='67' frameX='0' frameY='0' frameWidth='80' frameHeight='67' rotated='false'/>
+<SubTexture name='symbol_wild_005.png' x='165' y='70' width='80' height='67' frameX='0' frameY='0' frameWidth='80' frameHeight='67' rotated='false'/>
+<SubTexture name='symbol_wild_017.png' x='165' y='346' width='80' height='67' frameX='0' frameY='0' frameWidth='80' frameHeight='67' rotated='false'/>
+<SubTexture name='symbol_wild_014.png' x='165' y='277' width='80' height='67' frameX='0' frameY='0' frameWidth='80' frameHeight='67' rotated='false'/>
+<SubTexture name='symbol_wild_004.png' x='83' y='70' width='80' height='67' frameX='0' frameY='0' frameWidth='80' frameHeight='67' rotated='false'/>
+<SubTexture name='symbol_wild_029.png' x='165' y='622' width='80' height='67' frameX='0' frameY='0' frameWidth='80' frameHeight='67' rotated='false'/>
+<SubTexture name='symbol_wild_000.png' x='1' y='1' width='80' height='67' frameX='0' frameY='0' frameWidth='80' frameHeight='67' rotated='false'/>
+<SubTexture name='symbol_wild_026.png' x='165' y='553' width='80' height='67' frameX='0' frameY='0' frameWidth='80' frameHeight='67' rotated='false'/>
+<SubTexture name='symbol_wild_025.png' x='83' y='553' width='80' height='67' frameX='0' frameY='0' frameWidth='80' frameHeight='67' rotated='false'/>
+<SubTexture name='symbol_wild_019.png' x='83' y='415' width='80' height='67' frameX='0' frameY='0' frameWidth='80' frameHeight='67' rotated='false'/>
+<SubTexture name='symbol_wild_006.png' x='1' y='139' width='80' height='67' frameX='0' frameY='0' frameWidth='80' frameHeight='67' rotated='false'/>
+</TextureAtlas>

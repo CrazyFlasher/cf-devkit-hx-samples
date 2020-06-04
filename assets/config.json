@@ -1,0 +1,107 @@
+{
+  "sampleList": [
+    {
+      "name": "Stress scene (from Animate)",
+      "clazz": "samples.fla.SceneSample"
+    },
+    {
+      "name": "Dynamic lights",
+      "clazz": "samples.light.LightSample",
+      "starlingOnly": true
+    },
+    {
+      "name": "God rays",
+      "clazz": "samples.rays.RaysSample",
+      "starlingOnly": true
+    },
+    {
+      "name": "Pixel mask",
+      "clazz": "samples.pixelMask.PixelMaskSample",
+      "starlingOnly": true
+    },
+    {
+      "name": "Texture mask",
+      "clazz": "samples.textureMask.TextureMaskSample",
+      "starlingOnly": true
+    },
+    {
+      "name": "Wave effect",
+      "clazz": "samples.waveEffect.WaveEffectSample",
+      "starlingOnly": true
+    },
+    {
+      "name": "Drawing",
+      "clazz": "samples.draw.Draw"
+    },
+    {
+      "name": "9-slice scaling",
+      "clazz": "samples.scale9slice.Scale9SliceSample"
+    },
+    {
+      "name": "Streaming video texture",
+      "clazz": "samples.videoTexture.VideoTextureSample",
+      "starlingOnly": true
+    },
+    {
+      "name": "Spine",
+      "clazz": "samples.spine.TigerMeshSpineSample",
+      "assetPathList": ["spine/Tiger_animation_full_body"],
+      "qualityDependant": true,
+      "count": 1
+    },
+    {
+      "name": "DragonBones",
+      "clazz": "samples.db.BossDBSample",
+      "assetPathList": ["db/boss/boss"],
+      "qualityDependant": true,
+      "count": 1
+    },
+    {
+      "name": "DragonBones 2",
+      "clazz": "samples.db.IntroSample",
+      "assetPathList": ["db/intro/intro"],
+      "qualityDependant": true
+    },
+    {
+      "name": "Particles",
+      "clazz": "samples.particles.JellyFishParticleSample",
+      "assetPathList": ["assets/particles/jellyfish"]
+    },
+    {
+      "name": "Animated particles",
+      "clazz": "samples.particles.MovieClipParticleSample"
+    },
+    {
+      "name": "Sprite mask",
+      "clazz": "samples.masks.SpriteMaskSample",
+      "assetPathList": ["main_bg.jpg"],
+      "qualityDependant": true
+    },
+    {
+      "name": "Spritesheet",
+      "clazz": "samples.spriteSheet.AnimatedSpriteSheetStarling",
+      "assetPathList": [
+        "spriteSheet/symbol1.jpg",
+        "spriteSheet/symbol2.jpg",
+        "spriteSheet/symbol3.jpg",
+        "spriteSheet/symbol4.jpg",
+        "spriteSheet/symbol5.jpg"
+      ],
+      "qualityDependant": true,
+      "starlingOnly": true
+    },
+    {
+      "name": "Spritesheet",
+      "clazz": "samples.spriteSheet.AnimatedSpriteSheetOpenFL",
+      "assetPathList": [
+        "spriteSheet/symbol1",
+        "spriteSheet/symbol2",
+        "spriteSheet/symbol3",
+        "spriteSheet/symbol4",
+        "spriteSheet/symbol5"
+      ],
+      "qualityDependant": true,
+      "openflOnly": true
+    }
+  ]
+}

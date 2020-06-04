@@ -1,0 +1,55 @@
+{
+  "importDir": "",
+  "fileVersion": 2,
+  "exports": [
+    {
+      "textureBorder": 1,
+      "optimize": "Speed",
+      "scaleFactors": [
+        1
+      ],
+      "prettyPrint": false,
+      "maxAtlasSize": 2048,
+      "name": "low",
+      "format": "JSONZip",
+      "combine": false,
+      "quality": "best",
+      "scale": 0.25,
+      "description": "'low' (JSONZip, 25%, @1x)",
+      "scaleFactorsString": "1"
+    },
+    {
+      "textureBorder": 1,
+      "optimize": "Speed",
+      "scaleFactors": [
+        1
+      ],
+      "prettyPrint": false,
+      "maxAtlasSize": 2048,
+      "name": "medium",
+      "format": "JSONZip",
+      "combine": false,
+      "quality": "best",
+      "scale": 0.5,
+      "description": "'medium' (JSONZip, 50%, @1x)",
+      "scaleFactorsString": "1"
+    },
+    {
+      "textureBorder": 1,
+      "optimize": "Speed",
+      "scaleFactors": [
+        1
+      ],
+      "prettyPrint": false,
+      "maxAtlasSize": 4096,
+      "name": "high",
+      "format": "JSONZip",
+      "combine": false,
+      "quality": "best",
+      "scale": 1,
+      "description": "'high' (JSONZip, 100%, @1x)",
+      "scaleFactorsString": "1"
+    }
+  ],
+  "exportDir": ""
+}

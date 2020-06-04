@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath='assets/high/spriteSheet/symbol3.jpg'>
+<SubTexture name='symbol3_016.png' x='645' y='2425' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol3_003.png' x='1' y='1617' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol3_005.png' x='645' y='1' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol3_002.png' x='323' y='1' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol3_017.png' x='967' y='1617' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol3_014.png' x='1289' y='1' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol3_000.png' x='1' y='1' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol3_025.png' x='1289' y='2425' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol3_001.png' x='1' y='809' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol3_013.png' x='967' y='809' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol3_023.png' x='1611' y='809' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol3_008.png' x='645' y='809' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol3_021.png' x='967' y='2425' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol3_026.png' x='1611' y='1617' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol3_010.png' x='1' y='3233' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol3_029.png' x='1611' y='3233' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol3_020.png' x='645' y='3233' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol3_018.png' x='1289' y='809' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol3_022.png' x='1289' y='1617' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol3_024.png' x='967' y='3233' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol3_006.png' x='1' y='2425' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol3_007.png' x='323' y='1617' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol3_019.png' x='1611' y='1' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol3_012.png' x='645' y='1617' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol3_009.png' x='967' y='1' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol3_011.png' x='323' y='2425' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol3_027.png' x='1289' y='3233' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol3_028.png' x='1611' y='2425' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol3_004.png' x='323' y='809' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+<SubTexture name='symbol3_015.png' x='323' y='3233' width='320' height='806' frameX='0' frameY='0' frameWidth='320' frameHeight='806' rotated='false'/>
+</TextureAtlas>
