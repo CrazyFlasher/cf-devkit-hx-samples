@@ -2,8 +2,8 @@
 Samples created on top of [CFDevkit](https://github.com/CrazyFlasher/cf-devkit-hx). 
 
 ###### Build
-1. Download and install [Haxe 4.0.1+](https://haxe.org/download)
-2. Download [Pngquant](https://https://pngquant.org/)
+1. Download and install [Haxe 4.0.1+](https://haxe.org/download/file/4.0.1/haxe-4.0.1-win64.exe/)
+2. Download [Pngquant](https://pngquant.org/)
 
    * Extract binaries
    * Add path of extraction to "PATH" in environment variables (for Windows)
